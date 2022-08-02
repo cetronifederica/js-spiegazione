@@ -25,3 +25,5 @@ function calcolaPerimetro (base, altezza) {
 }
 
 
+const element = document.getElementById("saluto");
+
